@@ -8,8 +8,3 @@ gitbash≤‚ ‘
 888
 999
 branch
-<<<<<<< HEAD
-master
-=======
-fenzhi1
->>>>>>> fenzhi1
